@@ -1,2 +1,1 @@
-# avothemeforest
- this is the AVO theme which can be used for wordpress and many other platforms. this includes some mods i did from the original file so that it'll bring a seamless scene into the whole look and feel of the site. good luck using this to your purposes <3
+The AVO theme is a versatile solution that can be used with WordPress and various other code platforms. It has been modified from the original file to provide a seamless visual experience for your site. I hope this theme serves your needs effectively.
